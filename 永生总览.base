@@ -1,0 +1,27 @@
+views:
+  - type: table
+    name: 自我维度
+    filters:
+      and:
+        - file.inFolder("01 自我")
+    order:
+      - file.name
+      - 维度
+      - 状态
+      - 证据
+  - type: table
+    name: 证据弹药库
+    filters:
+      and:
+        - file.hasTag("证据/verbatim")
+    order:
+      - file.name
+      - 维度
+  - type: table
+    name: 全部蒸馏笔记
+    filters:
+      and:
+        - file.inFolder("06 蒸馏")
+    order:
+      - file.name
+      - 状态

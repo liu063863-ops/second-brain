@@ -1,0 +1,30 @@
+{
+  "slug": "liu-jinhao",
+  "persona": "self",
+  "built_at": "2026-10-25T15:22:15+08:00",
+  "sources_summarized": [
+    "wechat:self-26,988msgs",
+    "sns:306posts",
+    "manual:20+writings"
+  ],
+  "platforms": [
+    "wechat",
+    "sns",
+    "manual"
+  ],
+  "kit": "immortal-skill",
+  "dimensions": [
+    "procedure",
+    "interaction",
+    "memory",
+    "personality"
+  ],
+  "fingerprints": {
+    "conflicts.md": "855fa085f8881fc3970b5ed908c20cfc0a8eb17e201dd8c2b6799653f8c1f360",
+    "interaction.md": "f188c79d2cc11279abd420cf13acfad24f6d1fc781b9600ce2a216b7c3570d32",
+    "memory.md": "0f2f780fd4fc77daa11b3ed171eaf2e7ad43f06f3ef130ad0e2ea6f1c13bdcc9",
+    "personality.md": "689332f8b5b03c65a9716ea4a5a8dd9d69e5ff7dc33e08ad9faf0ff4aee41a00",
+    "procedure.md": "97e5e9991d18b02eef9d164a9de61c01f86b44b6575583517d3e1818c6aa95bd",
+    "SKILL.md": "a9de1822ae15c2be545e997c3376ee6e463be3ded51c8ac505a65270a18a4128"
+  }
+}

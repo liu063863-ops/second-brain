@@ -1,0 +1,9 @@
+{
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "userIgnoreFilters": [
+    "07-分身包/",
+    "08-语料/",
+    "09-报告/"
+  ]
+}
